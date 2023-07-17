@@ -1,0 +1,23 @@
+Une vieille photo sépia révèle un groupe de personnes rassemblées devant la façade majestueuse de la mairie d'Havenbrook. 
+Parmi elles se trouve le Dr. Arturus, un visage impénétrable. Cette photo est le seul souvenir restant de la cérémonie d'inauguration de la mairie, un événement qui a marqué l'histoire de la ville. 
+Le Dr. Arturus, en tant qu'ancien membre éminent de la communauté d'Havenbrook, a dissimulé un code au sein de cette image, comme un rappel de son influence passée.
+
+Todo: 
+
+sudo apt-get install libimage-exiftool-perl
+
+<?php
+// Chemin vers l'image
+$imagePath = './Photo.jpg';
+
+// Code à cacher dans les métadonnées
+$code = '<CODE>';
+
+// Utiliser ExifTool pour ajouter les métadonnées personnalisées
+$command = "exiftool -overwrite_original -Title='$code' $imagePath";
+exec($command);
+
+// Vérifier si les métadonnées ont été ajoutées avec succès
+$output = shell_exec("exiftool $imagePath");
+echo $output;
+?>
