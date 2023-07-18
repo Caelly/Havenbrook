@@ -1,0 +1,18 @@
+Sur le petit post-it, un code est écrit en caractères sans fioritures. 
+Les chiffres semblent presque danser devant les yeux des enquêteurs, mais ils savent qu'ils doivent rester concentrés pour déchiffrer ce mystérieux message.
+
+Sur ce post-it est écrit :
+
+" CODE = <code> "
+
+
+-----
+Todo : 
+<Code> = Ananas en Binaire = 01000001 01101110 01100001 01101110 01100001 01110011 00001101 00001010
+
+Indice : 
+=> (Fin énigme)
+Zéros et uns, mystérieux langage,
+À déchiffrer pour le voyage,
+Vers la porte qui s'ouvrira,
+Quand le code apparaîtra.
