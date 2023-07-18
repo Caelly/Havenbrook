@@ -6,6 +6,8 @@ Le phare se dresse fièrement, illuminant le ciel de son éclat.
 
 Todo: 
 
+code caché dans les méta = 
+
 sudo apt-get install libimage-exiftool-perl
 
 <?php

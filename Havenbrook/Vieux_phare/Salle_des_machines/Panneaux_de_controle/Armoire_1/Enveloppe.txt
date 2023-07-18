@@ -11,13 +11,9 @@ Pour dénicher un code caché ..*
 
 La bombe tic-tac impitoyablement, et seul le code que vous recherchez peut en interrompre la sinistre symphonie. 🕰️
 
-- Dr. <SIGNATURE>"
+- Dr. Arturus"
 
 -- 
-Todo: 
-SIGNATURE = Arcturus en code César
-
-
 Indice  : 
 => (suite énigme)
 Soyez perspicace et astucieux,

@@ -1,0 +1,4 @@
+une info présente dans Parc central => peut aider Vieux phare 
+et inversement 
+
+fichier txt dans Parc central et vieux phare pour aiguiller le joueur
