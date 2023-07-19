@@ -8,7 +8,7 @@ Sur ce post-it est écrit :
 
 -----
 Todo : 
-<Code> = Ananas en Binaire = 01000001 01101110 01100001 01101110 01100001 01110011 00001101 00001010
+<Code> = URANIUM en Binaire = 01010101 01010010 01000001 01001110 01001001 01010101 01001101
 
 Indice : 
 => (Fin énigme)
