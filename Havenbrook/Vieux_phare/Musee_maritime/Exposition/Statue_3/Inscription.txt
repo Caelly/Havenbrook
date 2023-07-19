@@ -4,4 +4,4 @@
 Todo :
 CODE à générer alétoirement et à convertir en image (si possible)
 
-mettre un extension alétoire pour ce fichier (garder une extension de fichier connu)
+mettre un extension alétoire pour ce fichier (garder une extension de fichier connu) 
