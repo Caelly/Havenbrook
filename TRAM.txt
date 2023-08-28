@@ -23,11 +23,11 @@ Quand le code apparaîtra. "
 -- 
 2 - Loge du gardien
     a - Bureau 
-        i - Tiroir du bas (Dossier.txt) => Lettre en binaire parpillées dans le texte => Bout à bout = mot pour désamorcer la bombe [code2]
+        i - Tiroir du bas (Dossier.txt) => Lettre en binaire éparpillées dans le texte => Bout à bout = mot pour désamorcer la bombe [code2]
         ii - Tiroir du haut => RIEN
-        iii - Tiroir du milieu (Papier_chifonne.txt) => Énigme qui renvoit au Musée Maritime => suite de l'histoire
+        iii - Tiroir du milieu (Papier_chifonne.txt) => Énigme qui renvoie au Musée Maritime => suite de l'histoire
 
-    b - Placard a vetements
+    b - Placard a vêtements
          i - Boite à souvenirs
             ° Ecrin => Lettre => go voir l'image
             °° Photo => Indice => Info métadonnées images => code cyrillique [code4]
@@ -37,19 +37,33 @@ Quand le code apparaîtra. "
 3 - Musée Maritime
 
     a - Exposition 
-        i - Statue 1 (Inscription.txt) => Indice renvoit à la salle des archives = suite de l'histoire
+        i - Statue 1 (Inscription.txt) => Indice renvoie à la salle des archives = suite de l'histoire
         ii - Statue 2 (Inscription.txt) => Rien
     
     b - Salle des archives
         i - Art contemporain 
             ° Persistance.png => RIEN
             °° Portait.txt => Arborescence à réaliser, après la vérif, un code est donné [code3]
-        ii - Mémoire du territoire (Carnet de bord.txt) => Indice, aller voir dans le placard à vetements, 
+                Indices : 
+                 -> Permissions : 
+                Peinture > Abstrait > : drwxr-x---     => chmod 750 Abstrait
+                Sculpture > Metal > : drwx------       => chmod 740 Metal
+
+                -> Dates : ANNIVERSAIRE Vinc et Maz
+                Peinture > Realiste > realiste1.jpg -rw-r--r-- 1 vincmgn vincmgn 0 Oct 21  2000         => touch -t 200010210000 realiste1.jpg                 Anniv vinc
+                Sculpture > Bois > bois1.jpg -rw-r--r-- 1 vincmgn vincmgn 0 Apr 22  2004                => touch -t 200404220000 bois1.jpg                     Anniv Maz
+
+                -> Liens > Dans le dossier "En_renovation"
+                Tous les fichiers dans Abstrait > ln ../Peinture/Abstrait/* .
+                Seulement pierre2.jpg > ln ../Sculpture/Pierre/pierre1.jpg .
+
+        ii - Mémoire du territoire (Carnet de bord.txt) => Indice, aller voir dans le placard à vêtements, 
 
 
+        
 --
 <CC> = code cesar 
 <CCS> = signature = arthurus
 tombe 2 = photo.jpg = code dans les metadonées 
 <D> = date dd-mm-yyyy
-Dossier.txt génerer un code en binaire à eparpiller après "Notes : "
+Dossier.txt génerer un code en binaire à éparpiller après "Notes : "

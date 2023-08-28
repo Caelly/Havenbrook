@@ -1,14 +1,15 @@
 Arborescence à réaliser
 
-" 
 Art_contemporain
      ├── Oeuvres_d_art
      │   ├── Peinture
      │   │   ├── Abstrait
      │   │   │   ├── abstrait1.jpg
-     │   │   │   └── abstrait2.jpg
+     │   │   │   ├── abstrait2.jpg
+     │   │   │   ├── abstrait3.jpg
+     │   │   │   └── abstrait4.jpg
      │   │   └── Realiste
-     │   │       └── realiste.jpg
+     │   │       └── realiste1.jpg
      │   └── Sculpture
      │       ├── Bois
      │       │   └── bois1.jpg
@@ -17,4 +18,23 @@ Art_contemporain
      │       └── Pierre
      │           ├── pierre1.jpg
      │           └── pierre2.jpg
-"
+
+1 - Changer les permissions : 
+    Peinture > Abstrait
+        - propriétaire : lire, écrire et exécuter
+        - groupe : lire et exécuter
+        - le reste : aucune permission
+        
+    Sculpture > Metal
+        - propriétaire : lire, écrire et exécuter
+        - groupe : lecture seule
+        - le reste : aucune permission
+
+2 - Modifier les dates des fichiers suivants :
+    Peinture > Realiste > realiste.jpg : avec la date d'anniversaire de Vincent 
+    Sculpture > Bois > bois1.jpg : avec la date d'anniversaire de Mazigh
+
+3 - Ajouter un dossier "En_renovation" au même niveau que les dossiers "Peinture" et "Sculpture".
+    Réaliser les liens suivants :
+        - Tous les fichiers de "Abstrait" vers "En_renovation"
+        - Le fichier "pierre1.jpg" vers "En_renovation"
