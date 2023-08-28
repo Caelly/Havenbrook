@@ -1,5 +1,6 @@
-Arborescence à réaliser
+=> Arborescence à réaliser :
 
+----------------------------------------------------
 Art_contemporain
      ├── Oeuvres_d_art
      │   ├── Peinture
@@ -18,6 +19,9 @@ Art_contemporain
      │       └── Pierre
      │           ├── pierre1.jpg
      │           └── pierre2.jpg
+----------------------------------------------------
+
+=> Actions à réaliser :
 
 1 - Changer les permissions : 
     Peinture > Abstrait
@@ -38,3 +42,5 @@ Art_contemporain
     Réaliser les liens suivants :
         - Tous les fichiers de "Abstrait" vers "En_renovation"
         - Le fichier "pierre1.jpg" vers "En_renovation"
+
+4 - Vérification
