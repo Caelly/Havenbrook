@@ -57,10 +57,19 @@ Quand le code apparaîtra. "
                 Tous les fichiers dans Abstrait > ln ../Peinture/Abstrait/* .
                 Seulement pierre2.jpg > ln ../Sculpture/Pierre/pierre1.jpg .
 
+                -> Création : for i in {1..69}; do touch "$i.txt"; done
+                -> Suppr : for i in {2..69..2}; do rm "$i.txt"; done
+                -> Les 2 en mm tps : 
+
+                    for i in {1..69}; do
+                        touch "$i.txt"
+                        if (( i % 2 == 0 )); then
+                            rm "$i.txt"
+                        fi
+                    done
+
         ii - Mémoire du territoire (Carnet de bord.txt) => Indice, aller voir dans le placard à vêtements, 
 
-
-        
 --
 <CC> = code cesar 
 <CCS> = signature = arthurus

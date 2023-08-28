@@ -11,6 +11,7 @@ Art_contemporain
      │   │   │   └── abstrait4.jpg
      │   │   └── Realiste
      │   │       └── realiste1.jpg
+     │   ├── Poubelle
      │   └── Sculpture
      │       ├── Bois
      │       │   └── bois1.jpg
@@ -42,5 +43,7 @@ Art_contemporain
     Réaliser les liens suivants :
         - Tous les fichiers de "Abstrait" vers "En_renovation"
         - Le fichier "pierre1.jpg" vers "En_renovation"
+
+4 - Dans le fichier Poubelle, créer des fichiers (1 à 69) en gardant seulement les fichiers impairs.
 
 4 - Vérification
