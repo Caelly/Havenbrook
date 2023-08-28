@@ -1,0 +1,20 @@
+Arborescence à réaliser
+
+" 
+Art_contemporain
+     ├── Oeuvres_d_art
+     │   ├── Peinture
+     │   │   ├── Abstrait
+     │   │   │   ├── abstrait1.jpg
+     │   │   │   └── abstrait2.jpg
+     │   │   └── Realiste
+     │   │       └── realiste.jpg
+     │   └── Sculpture
+     │       ├── Bois
+     │       │   └── bois1.jpg
+     │       ├── Metal
+     │       │   └── metal1.jpg
+     │       └── Pierre
+     │           ├── pierre1.jpg
+     │           └── pierre2.jpg
+"

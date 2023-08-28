@@ -4,10 +4,13 @@ Devant le phare, le gardien, homme bienveillant au regard sage, arbore fièremen
 La famille est unie. Les deux garçons sont présents : l'aîné, aux yeux brillants et le cadet, espiègle et curieux, prêt à explorer. 
 Le phare se dresse fièrement, illuminant le ciel de son éclat.
 
+--
 Todo: 
+code caché dans les méta = exemple : MARIN 
+Code cyrillique dans les metadonnées de l'image 
 
-code caché dans les méta = MARIN = 01001101 01000001 01010010 01001001 01001110
-ATTENTION CODE NON UTILE
+
+
 sudo apt-get install libimage-exiftool-perl
 
 <?php
@@ -26,5 +29,3 @@ $output = shell_exec("exiftool $imagePath");
 echo $output;
 ?>
 
-Indice :
-=> Info images

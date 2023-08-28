@@ -1,0 +1,55 @@
+--------------------- VIEUX PHARE --------------------- 
+TRAM => 1a, 1b, 2a, 3a, 3b, 2b
+1 - Salle des machines 
+    a - Armoire 1 (Enveloppe.txt) => Indice (suite énigme)
+
+" [...] Soyez perspicace et astucieux,
+Le destin est entre vos mains, audacieux,
+Dans la loge du vieux phare,
+Se cache le secret à dévoiler. "
+
+=> suite de l'histoire : loge du gardien
+
+
+    b - Armoire 2 (Post-it.txt) => Indice (fin énigme)
+
+" [...] Zéros et uns, mystérieux langage,
+À déchiffrer pour le voyage,
+Vers la porte qui s'ouvrira,
+Quand le code apparaîtra. "
+
+=> code binaire à déchiffrer (contient un mot pour désamorcer la bombe [code1])
+
+-- 
+2 - Loge du gardien
+    a - Bureau 
+        i - Tiroir du bas (Dossier.txt) => Lettre en binaire parpillées dans le texte => Bout à bout = mot pour désamorcer la bombe [code2]
+        ii - Tiroir du haut => RIEN
+        iii - Tiroir du milieu (Papier_chifonne.txt) => Énigme qui renvoit au Musée Maritime => suite de l'histoire
+
+    b - Placard a vetements
+         i - Boite à souvenirs
+            ° Ecrin => Lettre => go voir l'image
+            °° Photo => Indice => Info métadonnées images => code cyrillique [code4]
+         ii - Chemise.txt => Nom du gardien pas important au final osef
+
+--
+3 - Musée Maritime
+
+    a - Exposition 
+        i - Statue 1 (Inscription.txt) => Indice renvoit à la salle des archives = suite de l'histoire
+        ii - Statue 2 (Inscription.txt) => Rien
+    
+    b - Salle des archives
+        i - Art contemporain 
+            ° Persistance.png => RIEN
+            °° Portait.txt => Arborescence à réaliser, après la vérif, un code est donné [code3]
+        ii - Mémoire du territoire (Carnet de bord.txt) => Indice, aller voir dans le placard à vetements, 
+
+
+--
+<CC> = code cesar 
+<CCS> = signature = arthurus
+tombe 2 = photo.jpg = code dans les metadonées 
+<D> = date dd-mm-yyyy
+Dossier.txt génerer un code en binaire à eparpiller après "Notes : "
