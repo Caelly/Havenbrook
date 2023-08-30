@@ -24,7 +24,7 @@ Art_contemporain
 
 => Actions à réaliser :
 
-1 - Changer les permissions : 
+1️⃣ - Changer les permissions : 
     Peinture > Abstrait
         - propriétaire : lire, écrire et exécuter
         - groupe : lire et exécuter
@@ -35,15 +35,17 @@ Art_contemporain
         - groupe : lecture seule
         - le reste : aucune permission
 
-2 - Modifier les dates des fichiers suivants :
+2️⃣ - Modifier les dates des fichiers suivants :
     Peinture > Realiste > realiste.jpg : avec la date d'anniversaire de Vincent 
     Sculpture > Bois > bois1.jpg : avec la date d'anniversaire de Mazigh
 
-3 - Ajouter un dossier "En_renovation" au même niveau que les dossiers "Peinture" et "Sculpture".
+3️⃣ - Ajouter un dossier "En_renovation" au même niveau que les dossiers "Peinture" et "Sculpture".
     Réaliser les liens suivants :
         - Tous les fichiers de "Abstrait" vers "En_renovation"
         - Le fichier "pierre1.jpg" vers "En_renovation"
 
-4 - Dans le fichier Poubelle, créer des fichiers (1 à 69) en gardant seulement les fichiers impairs.
+4️⃣ - Dans le fichier "Poubelle", créer des fichiers (1 à 69) en gardant seulement les fichiers impairs. 
+    Une variable "filename_prefix" devra être utilisée pour la création des fichiers.
+    ⚠️ Attention : Cette variable devra être exportée afin de procéder à la vérification de cette dernière.
 
-4 - Vérification
+✅ - Vérification

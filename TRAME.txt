@@ -1,5 +1,6 @@
+-------------------- PARC CENTRAL --------------------- 
 --------------------- VIEUX PHARE --------------------- 
-TRAM => 1a, 1b, 2a, 3a, 3b, 2b
+TRAME => 1a, 1b, 2a, 3a, 3b, 2b
 1 - Salle des machines 
     a - Armoire 1 (Enveloppe.txt) => Indice (suite énigme)
 
@@ -45,9 +46,9 @@ Quand le code apparaîtra. "
             ° Persistance.png => RIEN
             °° Portait.txt => Arborescence à réaliser, après la vérif, un code est donné [code3]
                 Indices : 
-                 -> Permissions : 
+                -> Permissions : 
                 Peinture > Abstrait > : drwxr-x---     => chmod 750 Abstrait
-                Sculpture > Metal > : drwx------       => chmod 740 Metal
+                Sculpture > Metal > : drwxr-----       => chmod 740 Metal
 
                 -> Dates : ANNIVERSAIRE Vinc et Maz
                 Peinture > Realiste > realiste1.jpg -rw-r--r-- 1 vincmgn vincmgn 0 Oct 21  2000         => touch -t 200010210000 realiste1.jpg                 Anniv vinc
@@ -55,20 +56,26 @@ Quand le code apparaîtra. "
 
                 -> Liens > Dans le dossier "En_renovation"
                 Tous les fichiers dans Abstrait > ln ../Peinture/Abstrait/* .
-                Seulement pierre2.jpg > ln ../Sculpture/Pierre/pierre1.jpg .
+
+                -> Création d'une variable en shell
 
                 -> Création : for i in {1..69}; do touch "$i.txt"; done
                 -> Suppr : for i in {2..69..2}; do rm "$i.txt"; done
                 -> Les 2 en mm tps : 
 
+                    filename_prefix="fichier"
+                    echo $filename_prefix
+                    fichier
+
                     for i in {1..69}; do
-                        touch "$i.txt"
+                        touch "$filename_prefix$i.txt"
                         if (( i % 2 == 0 )); then
-                            rm "$i.txt"
+                            rm "$filename_prefix$i.txt"
                         fi
                     done
 
         ii - Mémoire du territoire (Carnet de bord.txt) => Indice, aller voir dans le placard à vêtements, 
+
 
 --
 <CC> = code cesar 
