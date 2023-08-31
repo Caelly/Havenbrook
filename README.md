@@ -14,7 +14,7 @@ Dans cette histoire, des indices sont subtilement glissés dans les descriptions
 
 ## Screenshots
 
-![Village](https://zupimages.net/viewer.php?id=23/35/lg3j.jpg)
+![Village](https://zupimages.net/up/23/35/lg3j.jpg)
 
 ## Tech Stack
 
