@@ -5,7 +5,7 @@ Parmi ces histoires, une fait référence à un érudit occulte qui aurait jadis
 Dr. Arturus, captivé par cette histoire, a cherché à s'approprier les connaissances interdites mais à dissimulé un des codes secrets dans se carnet.
 Cependant, il est clair que le Dr. Arturus ne voulait pas que cette information soit facilement accessible.
 
-"[...] Après de longues recherches et d'innombrables expériences, 
+" [...] Après de longues recherches et d'innombrables expériences, 
 j'ai finalement réussi à créer une bombe redoutable, capable de semer le chaos et la destruction dans la paisible ville d'Havenbrook. 
 Mais je suis un génie du mal, et un simple détonateur ne suffit pas pour accomplir mon dessein. 
 J'ai conçu un mécanisme complexe qui nécessite un code spécifique pour désarmer la bombe, la rendant ainsi inaccessible aux esprits médiocres.
@@ -18,7 +18,7 @@ Dans ce carnet de notes, je mêlerai des histoires et des indices trompeurs, mai
 Le voici, inscrit dans ces lignes, pour ceux qui auront suffisamment d'ingéniosité pour le trouver <CODE>. Puissent-ils être dignes de le découvrir avant qu'il ne soit trop tard. 
 Car après tout, il n'y a pas de plaisir sans un peu de jeu macabre, n'est-ce pas ?
 
-- Dr. <SIGNATURE>"
+- Dr. <SIGNATURE> "
 
 Todo: 
 SIGNATURE = Arturus en code cesar 

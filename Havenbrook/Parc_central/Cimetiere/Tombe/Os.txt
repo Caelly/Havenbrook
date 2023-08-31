@@ -13,5 +13,3 @@ Sur ce papier, des mots énigmatiques sont inscrits d'une main précise : "La cl
 Cette phrase sibylline indique que les réponses nécessaires pour désamorcer la bombe sont liées aux événements et aux connaissances enfouis dans l'histoire de ce corsaire.
 
 
-Todo : 
-Cacher le code dans l'historique des commits Barbe Noire

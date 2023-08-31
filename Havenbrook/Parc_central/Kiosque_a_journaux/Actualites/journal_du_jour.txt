@@ -4,11 +4,8 @@ Sous-titre : Les origines obscures d'un désastre
 
 Article :
 Dans la nuit du jeudi, une tragédie a frappé le Vieux Phare d'Havenbrook. Un incendie violent a dévoré les étages supérieurs de cette icône historique, réduisant en cendres des décennies de souvenirs et de légendes maritimes. Les flammes ont illuminé le ciel nocturne, plongeant la ville dans une ambiance sombre et inquiétante.
-
 Les pompiers, arrivés sur les lieux peu après l'appel d'urgence, ont lutté contre les flammes dévorantes pendant des heures. Cependant, leurs efforts héroïques n'ont pas suffi à empêcher le phare de subir des dommages irréversibles. Les enquêteurs se demandent maintenant quelle force malveillante se cache derrière cet incendie mystérieux.
-
 Certains témoins ont affirmé avoir aperçu des ombres mouvantes près du phare avant l'incendie, alimentant les rumeurs selon lesquelles des forces surnaturelles pourraient être à l'origine de ce désastre. D'autres ont évoqué des bruits étranges et des voix chuchotantes qui hantaient les environs.
-
 Les autorités locales ont lancé une enquête approfondie pour déterminer la cause de l'incendie. Les enquêteurs fouillent les décombres, à la recherche d'indices qui pourraient révéler la vérité derrière cet acte sinistre. Le maire d'Havenbrook a promis de reconstruire le Vieux Phare et de rendre justice à son héritage maritime.
 
 --
@@ -19,14 +16,12 @@ Sous-titre : Les secrets des grands explorateurs révélés
 
 Article :
 Le Musée Maritime d'Havenbrook ouvre ses portes à une exposition captivante qui promet de plonger les visiteurs dans le monde fascinant des grands explorateurs. Les passionnés d'histoire et les curieux pourront se délecter d'objets anciens, de cartes maritimes rares et de récits d'aventures épiques.
-
 L'exposition, intitulée "Trésors de l'Inconnu", met en lumière les exploits des navigateurs légendaires qui ont sillonné les mers à la recherche de terres inexplorées. Les artefacts présentés proviennent de voyages audacieux et de découvertes surprenantes, offrant un aperçu précieux de l'histoire maritime d'Havenbrook.
-
 Les visiteurs pourront admirer une carte ancienne, ornée de mystérieux symboles, qui aurait guidé un célèbre explorateur vers des terres lointaines. Des statues représentant des figures emblématiques de l'histoire maritime se dressent majestueusement dans la salle d'exposition, capturant l'esprit aventureux de ces héros oubliés.
-
 Les enquêteurs sont invités à visiter cette exposition unique, car des secrets cachés pourraient se révéler au fil des objets et des récits des explorateurs intrépides. Chaque indice, chaque détail pourrait les rapprocher de la vérité cachée derrière les périples légendaires de ces marins courageux.
 
-Code caché : 1K9X5
+
+--
 
 Titre : Phénomènes étranges au Parc central
 
@@ -34,14 +29,12 @@ Sous-titre : Des mystères qui défient la logique
 
 Article :
 Le Parc central d'Havenbrook, un lieu de détente prisé par les habitants, est le théâtre de phénomènes étranges qui défient toute explication rationnelle. Des témoins stupéfaits ont rapporté des observations inhabituelles, allant de visions fantomatiques à des bruits inexpliqués, créant une atmosphère mystérieuse dans cet espace verdoyant.
-
 Certains visiteurs affirment avoir aperçu des ombres mouvantes entre les arbres, comme si des entités invisibles se promenaient parmi les buissons. D'autres prétendent avoir entendu des murmures à peine perceptibles, des voix chuchotantes qui semblent provenir de nulle part.
-
 Les enquêteurs sont appelés à résoudre ces phénomènes énigmatiques, à chercher des explications rationnelles ou à s'aventurer dans le domaine du paranormal. Des équipements de détection des esprits et des spécialistes du surnaturel ont été sollicités pour mener des investigations approfondies dans le parc, dans l'espoir de trouver des réponses à ces mystères déconcertants.
-
 Le Parc central, autrefois un havre de paix et de quiétude, est maintenant plongé dans une aura de mystère. Les enquêteurs devront faire preuve de courage et d'ingéniosité pour démêler les fils de ces phénomènes surnaturels et découvrir la vérité dissimulée au cœur de ce lieu enchanteur.
 
-Code caché : 8P3Z7
+
+--
 
 Titre : Découverte archéologique à Havenbrook
 
@@ -49,9 +42,5 @@ Sous-titre : Les vestiges du passé révèlent leurs secrets
 
 Article :
 Une équipe d'archéologues passionnés a récemment fait une découverte extraordinaire à Havenbrook, mettant en lumière une civilisation ancienne jusqu'alors inconnue. Les fouilles ont révélé des vestiges remarquables, témoins d'une culture prospère qui aurait existé dans cette région il y a des siècles.
-
 Parmi les artefacts découverts, on trouve des poteries finement décorées, des outils primitifs et des inscriptions énigmatiques gravées dans la pierre. Les archéologues ont également mis au jour un temple oublié, enfoui sous les couches de temps, offrant un aperçu précieux de la vie quotidienne de cette civilisation disparue.
-
 Les enquêteurs sont invités à se rendre sur le site archéologique pour observer les découvertes de leurs propres yeux. Chaque ruine, chaque inscription pourrait renfermer des indices cruciaux sur le code de désamorçage de la bombe. Les secrets du passé peuvent apporter des réponses au présent.
-
-Code caché : 6R7C1
