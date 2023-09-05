@@ -26,7 +26,7 @@ TRAME => 1a(code), 1b, 3b(code), 1c(code), 4c, 2(code)
     c - Privé (post-it.txt) =>
 
 4 - Poubelle
-    a - Morceau_de_papiers.txt =>
+    a - Morceau_de_papiers.txt => Rien, enigme redirection fontaine
     b - Note_de_frais.txt => traduction du code cyrillique [code]
     c - papier_dechire.txt => Indice = métadonnées
 
