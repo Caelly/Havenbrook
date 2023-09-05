@@ -20,6 +20,4 @@ Car après tout, il n'y a pas de plaisir sans un peu de jeu macabre, n'est-ce pa
 
 - Dr. <SIGNATURE> "
 
-Todo: 
-SIGNATURE = Arturus en code cesar 
-CODE = code cesar utilisé pour la signature 
+
