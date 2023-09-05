@@ -4,8 +4,3 @@ Les chiffres semblent presque danser devant les yeux des enquêteurs, mais ils s
 Sur ce post-it est écrit :
 
 " CODE = <CB> "
-
-
------
-Todo : 
-<Code> = URANIUM en Binaire = 01010101 01010010 01000001 01001110 01001001 01010101 01001101
