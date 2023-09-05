@@ -1,5 +1,5 @@
 -------------------- PARC CENTRAL --------------------- 
-TRAME => 1a(code), 1b, 3b(code), 1c(code), 4c, 2(code)
+TRAME =>
 1 - Cimetierre
     a - Saule pleureur (Carnet_de_notes.txt)
         SIGNATURE = Arturus en code cesar 
@@ -22,8 +22,8 @@ TRAME => 1a(code), 1b, 3b(code), 1c(code), 4c, 2(code)
 
 3 - Kiosque à journaux
     a - Actualites (journal_du_jour.txt) => indice => "vos notes" => notes de frais /// "secret du passé", "couche de temps" => poubelle
-    b - Historique (journal.txt) => 
-    c - Privé (post-it.txt) =>
+    b - Historique (journal.txt) => post-it.txt contient le prochain code
+    c - Privé (post-it.txt) => code cyrillique [code]
 
 4 - Poubelle
     a - Morceau_de_papiers.txt => Rien, enigme redirection fontaine
