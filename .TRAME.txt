@@ -21,7 +21,7 @@ TRAME => 1a(code), 1b, 3b(code), 1c(code), 4c, 2(code)
     [CODE]
 
 3 - Kiosque à journaux
-    a - Actualites (journal_du_jour.txt) => 
+    a - Actualites (journal_du_jour.txt) => indice => "vos notes" => notes de frais /// "secret du passé", "couche de temps" => poubelle
     b - Historique (journal.txt) => 
     c - Privé (post-it.txt) =>
 
