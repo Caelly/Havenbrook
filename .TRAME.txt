@@ -4,30 +4,30 @@ TRAME => 1a(code), 1b, 3b(code), 1c(code), 4c, 2(code)
     a - Saule pleureur (Carnet_de_notes.txt)
         SIGNATURE = Arturus en code cesar 
         CODE = code cesar utilisé pour la signature 
-        [CODE1]
+        [CODE]
 
     b - Tombe (Os.txt) => Indice (suite énigme) 
         " Cette énigme subtile pourrait bien pointer vers une direction. 
         Il semble que les journaux historiques d'Havenbrook, où les événements passés sont enregistrés, pourraient contenir des réponses. 
-        Peut-être est-ce là que réside la clé pour désamorcer la bombe, mais il faudra plonger dans les archives pour le découvrir."
+        Peut-être est-ce là que réside la clé pour désamorcer la bombe, mais il faudra plonger dans les histoires passées pour le découvrir."
 
     c - Tombe2 (Photo.jpg & lettre.txt) 
         Aide : dans la lettre mot "déchiré" dans le texte => Poubelle => papier déchiré 
-        [CODE2]
+        [CODE]
 
 
 2 - Fontaine => Plaque_commémorative.txt 
     Indice => Soustraction date  ex : 22-04-1890
-    [CODE3]
+    [CODE]
 
 3 - Kiosque à journaux
-    a - Actualites (journal_du_jour.txt) =>
+    a - Actualites (journal_du_jour.txt) => 
     b - Historique (journal.txt) => 
     c - Privé (post-it.txt) =>
 
 4 - Poubelle
     a - Morceau_de_papiers.txt =>
-    b - Note_de_frais.txt =>
+    b - Note_de_frais.txt => traduction du code cyrillique [code]
     c - papier_dechire.txt => Indice = métadonnées
 
 
@@ -59,19 +59,19 @@ Se cache le secret à dévoiler. "
 Vers la porte qui s'ouvrira,
 Quand le code apparaîtra. "
 
-=> code binaire à déchiffrer (contient un mot pour désamorcer la bombe [code1])
+=> code binaire à déchiffrer (contient un mot pour désamorcer la bombe [code])
 
 -- 
 2 - Loge du gardien
     a - Bureau 
-        i - Tiroir du bas (Dossier.txt) => Lettre en binaire éparpillées dans le texte => Bout à bout = mot pour désamorcer la bombe [code2]
+        i - Tiroir du bas (Dossier.txt) => Lettre en binaire éparpillées dans le texte => Bout à bout = mot pour désamorcer la bombe [code]
         ii - Tiroir du haut => RIEN
         iii - Tiroir du milieu (Papier_chifonne.txt) => Énigme qui renvoie au Musée Maritime => suite de l'histoire
 
     b - Placard a vêtements
          i - Boite à souvenirs
             ° Ecrin => Lettre => go voir l'image
-            °° Photo => Indice => Info métadonnées images => code cyrillique [code4]
+            °° Photo => Indice => Info métadonnées images => code cyrillique [code]
          ii - Chemise.txt => Nom du gardien pas important au final osef
 
 --
@@ -84,7 +84,7 @@ Quand le code apparaîtra. "
     b - Salle des archives
         i - Art contemporain 
             ° Persistance.png => RIEN
-            °° Portait.txt => Arborescence à réaliser, après la vérif, un code est donné [code3]
+            °° Portait.txt => Arborescence à réaliser, après la vérif, un code est donné [code]
                 Indices : 
                 -> Permissions : 
                 Peinture > Abstrait > : drwxr-x---     => chmod 750 Abstrait
