@@ -95,7 +95,7 @@ Quand le code apparaîtra. "
                 Sculpture > Bois > bois1.jpg -rw-r--r-- 1 vincmgn vincmgn 0 Apr 22  2004                => touch -t 200404220000 bois1.jpg                     Anniv Maz
 
                 -> Liens > Dans le dossier "En_renovation"
-                Tous les fichiers dans Abstrait > ln ../Peinture/Abstrait/* .
+                Tous les fichiers dans Abstrait > ln -s ../Peinture/Abstrait/* .
 
                 -> Création d'une variable en shell
 
